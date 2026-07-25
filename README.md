@@ -15,7 +15,7 @@ This repository is structured to guide you through each step of working with Cop
 ## 🗂️ Project Structure
 
 ```
-GitHubCodeSpaceTutor/
+GitHubCopilotSpacesTutor/
 ├── README.md                              # This file
 ├── 01_weather_app/                        # Step 1: Basic Project
 ├── 02_todo_list/                          # Step 2: Adding Documentation
