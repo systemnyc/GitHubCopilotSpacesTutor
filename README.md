@@ -1,6 +1,6 @@
 # GitHub Copilot Spaces Tutorial Projects
 
-Welcome to the **GitHub Copilot Spaces Tutorial Repository**! This repository contains hands-on Python projects designed to help you practice and understand GitHub Copilot Spaces fundamentals.
+Welcome to the **GitHub Copilot Spaces Tutorial Repository**! This repository is being developed to provide hands-on Python projects designed to help you practice and understand GitHub Copilot Spaces fundamentals.
 
 ## 📚 What You'll Learn
 
