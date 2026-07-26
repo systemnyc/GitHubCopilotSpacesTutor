@@ -1,0 +1,32 @@
+{
+  "New York": {
+    "temperature": 72,
+    "condition": "Partly Cloudy",
+    "humidity": 65,
+    "wind_speed": 8
+  },
+  "San Francisco": {
+    "temperature": 68,
+    "condition": "Foggy",
+    "humidity": 78,
+    "wind_speed": 12
+  },
+  "Austin": {
+    "temperature": 88,
+    "condition": "Sunny",
+    "humidity": 45,
+    "wind_speed": 5
+  },
+  "Seattle": {
+    "temperature": 65,
+    "condition": "Rainy",
+    "humidity": 85,
+    "wind_speed": 15
+  },
+  "Miami": {
+    "temperature": 82,
+    "condition": "Clear",
+    "humidity": 70,
+    "wind_speed": 10
+  }
+}
